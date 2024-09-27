@@ -1,2 +1,1 @@
-# hi
-nothing
+print ("Hello world")
